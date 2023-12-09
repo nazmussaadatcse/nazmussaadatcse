@@ -17,7 +17,7 @@
 </p>
 
 
-##
+## 🌟 About Me
 
 👋 Hello there! I'm a passionate MERN stack developer 🚀
 
