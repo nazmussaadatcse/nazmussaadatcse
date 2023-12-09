@@ -4,8 +4,8 @@
 # Current Status
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700" alt="GitHub Streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700&hide_longest_streak=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&mode=weekly&card_width=700&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
   <br />
   <a href="https://githubtrends.io">
