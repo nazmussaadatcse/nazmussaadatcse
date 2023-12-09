@@ -23,7 +23,7 @@
 
 👨‍💻 I specialize in building robust web applications using MongoDB, Express.js, React.js, and Node.js.
 
-🔧 With a strong foundation in front-end (HTML/CSS/JavaScript) and back-end development, I love crafting seamless user experiences and scalable solutions.
+🔧 With a strong foundation in front-end (HTML/CSS/JavaScript/React) and back-end development, I love crafting seamless user experiences and scalable solutions.
 
 
 
