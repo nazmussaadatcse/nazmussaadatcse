@@ -3,18 +3,19 @@
 
 # Current Status
 
-<div style="text-align: center;">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700" />
-    </a>
-    <p></p>
-    <a href="https://githubtrends.io">
-        <img src="https://api.githubtrends.io/user/svg/nazmussaadatcse/repos?time_range=one_year&theme=dark" />
-    </a>
-    <a href="https://githubtrends.io">
-        <img src="https://api.githubtrends.io/user/svg/nazmussaadatcse/langs?time_range=one_year&theme=dark" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700" alt="GitHub Streak" />
+  </a>
+  <br />
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/nazmussaadatcse/repos?time_range=one_year&theme=dark" alt="GitHub Trends Repositories" />
+  </a>
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/nazmussaadatcse/langs?time_range=one_year&theme=dark" alt="GitHub Trends Languages" />
+  </a>
+</p>
+
 
 ##
 
