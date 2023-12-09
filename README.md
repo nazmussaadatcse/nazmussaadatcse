@@ -1,6 +1,22 @@
-# Overview
 
 [![An old rock in the desert](/img/code.png "Shiprock, New Mexico by Beau Rogers")](https://github.com/nazmussaadatcse)
+
+# Current Status
+
+<div style="text-align: center;">
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700" />
+    </a>
+    <p></p>
+    <a href="https://githubtrends.io">
+        <img src="https://api.githubtrends.io/user/svg/nazmussaadatcse/repos?time_range=one_year&theme=dark" />
+    </a>
+    <a href="https://githubtrends.io">
+        <img src="https://api.githubtrends.io/user/svg/nazmussaadatcse/langs?time_range=one_year&theme=dark" />
+    </a>
+</div>
+
+##
 
 👋 Hello there! I'm a passionate MERN stack developer 🚀
 
@@ -25,17 +41,9 @@
   </a>
 </p>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nazmussaadatcse&theme=highcontrast&border_radius=2&card_width=700)](https://git.io/streak-stats)
-
-<p>
+##
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nazmussaadatcse/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nazmussaadatcse/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
-
-
-</p>
 
 
 
